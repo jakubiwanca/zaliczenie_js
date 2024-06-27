@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+#newsContainer {
+  margin-top: 20px;
+}
+
+.newsItem {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px grey;
+}
+
+.newsItem h2 {
+  margin: 0;
+}
+
+.newsItem p {
+  margin: 10px 0 0;
+}
