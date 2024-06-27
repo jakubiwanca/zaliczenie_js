@@ -1,11 +1,11 @@
 # zaliczenie_js
 # Installation
 
-# Clone this repository
-# Run pnpm install
+Clone this repository
+Run pnpm install
 
 # Running
-# Run pnpm dev
+Run pnpm dev
 
 # Building
-# Run pnpm build
+Run pnpm build
